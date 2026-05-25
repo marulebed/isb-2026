@@ -11,7 +11,7 @@ from crypto_service import (
 def run_gui(config: dict) -> None:
     """
     Запускает графический интерфейс.
-    """
+    """  
 
     def get_key_from_ui():
 
